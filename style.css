@@ -54,6 +54,13 @@
         .link-menu:hover {
             color: #28a745;
         }
+        .local {
+            width: 100%; /* Largura total do container */
+            height: 400px; /* Altura fixa (ajuste conforme necessário) */
+            border: 2px solid #ccc; /* Borda de exemplo */
+            border-radius: 10px; /* Bordas arredondadas */
+            margin-top: 20px; /* Espaçamento acima */
+        }
 
         .link-whats {
             background-color: #25d366;
